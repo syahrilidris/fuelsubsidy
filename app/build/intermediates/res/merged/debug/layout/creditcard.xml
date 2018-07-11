@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/bg_register"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="top"
+            android:orientation="vertical"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp">
+
+            <LinearLayout
+                android:id="@+id/CC1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="20dp"
+                    android:text="Credit Card 1 Info:"
+                    android:textColor="@color/white"
+                    android:textSize="24sp" />
+
+                <Button
+                    android:id="@+id/btnScan1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dip"
+                    android:background="@color/bg_main"
+                    android:onClick="imageClick"
+                    android:text="Scan Your Card"
+                    android:textColor="@color/white" />
+
+                <ImageView
+                    android:id="@+id/im1"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="0.91"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/textView6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="20dp"
+                    android:text="Credit Card Provider:"
+                    android:textColor="@color/white"
+                    android:textSize="24sp"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinnerLoyalty"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="15dp"
+                    android:background="@color/input_login_hint"
+                    android:entries="@array/credit_card"
+                    android:spinnerMode="dialog" />
+
+                <EditText
+                    android:id="@+id/cardName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="30dp"
+                    android:background="@color/input_register_bg"
+                    android:hint="Card Name"
+                    android:inputType="textCapWords"
+                    android:padding="10dp"
+                    android:singleLine="true"
+                    android:textColor="@color/input_register"
+                    android:textColorHint="@color/input_register_hint"
+                    android:visibility="gone" />
+
+                <EditText
+                    android:id="@+id/cardNumber"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@color/input_register_bg"
+                    android:hint="Card Number"
+                    android:inputType="number"
+                    android:maxLength="16"
+                    android:padding="10dp"
+                    android:singleLine="true"
+                    android:textColor="@color/input_register"
+                    android:textColorHint="@color/input_register_hint" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/CC2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="20dp"
+                    android:text="Credit Card 2 Info:"
+                    android:textColor="@color/white"
+                    android:textSize="24sp" />
+
+                <Button
+                    android:id="@+id/btnScan2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dip"
+                    android:background="@color/bg_main"
+                    android:onClick="imageClick"
+                    android:text="Scan Your Card"
+                    android:textColor="@color/white" />
+
+                <ImageView
+                    android:id="@+id/im2"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="0.91"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/textView6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="20dp"
+                    android:text="Credit Card Provider:"
+                    android:textColor="@color/white"
+                    android:textSize="24sp"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinnerLoyalty2"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="15dp"
+                    android:background="@color/input_login_hint"
+                    android:entries="@array/credit_card"
+                    android:spinnerMode="dialog" />
+
+                <EditText
+                    android:id="@+id/cardName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="30dp"
+                    android:background="@color/input_register_bg"
+                    android:hint="Card Name"
+                    android:inputType="textCapWords"
+                    android:padding="10dp"
+                    android:singleLine="true"
+                    android:textColor="@color/input_register"
+                    android:textColorHint="@color/input_register_hint"
+                    android:visibility="gone" />
+
+                <EditText
+                    android:id="@+id/cardNumber2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@color/input_register_bg"
+                    android:hint="Card Number"
+                    android:inputType="number"
+                    android:maxLength="16"
+                    android:padding="10dp"
+                    android:singleLine="true"
+                    android:textColor="@color/input_register"
+                    android:textColorHint="@color/input_register_hint" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/CC3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="20dp"
+                    android:text="Credit Card 3 Info:"
+                    android:textColor="@color/white"
+                    android:textSize="24sp" />
+
+                <Button
+                    android:id="@+id/btnScan3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dip"
+                    android:background="@color/bg_main"
+                    android:onClick="imageClick"
+                    android:text="Scan Your Card"
+                    android:textColor="@color/white" />
+
+                <ImageView
+                    android:id="@+id/im3"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="0.91"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/textView6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="20dp"
+                    android:text="Credit Card Provider:"
+                    android:textColor="@color/white"
+                    android:textSize="24sp"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/spinnerLoyalty3"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="15dp"
+                    android:background="@color/input_login_hint"
+                    android:entries="@array/credit_card"
+                    android:spinnerMode="dialog" />
+
+                <EditText
+                    android:id="@+id/cardName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="30dp"
+                    android:background="@color/input_register_bg"
+                    android:hint="Card Name"
+                    android:inputType="textCapWords"
+                    android:padding="10dp"
+                    android:singleLine="true"
+                    android:textColor="@color/input_register"
+                    android:textColorHint="@color/input_register_hint"
+                    android:visibility="gone" />
+
+                <EditText
+                    android:id="@+id/cardNumber3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@color/input_register_bg"
+                    android:hint="Card Number"
+                    android:inputType="number"
+                    android:maxLength="16"
+                    android:padding="10dp"
+                    android:singleLine="true"
+                    android:textColor="@color/input_register"
+                    android:textColorHint="@color/input_register_hint" />
+            </LinearLayout>
+
+            <!-- Login Button -->
+
+            <Button
+                android:id="@+id/btnAdd"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dip"
+                android:background="@color/bg_main"
+                android:onClick="addCredit"
+                android:text="ADD"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/btnUndo"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dip"
+                android:background="@color/bg_main"
+                android:onClick="undoaddCredit"
+                android:text="UNDO"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/btnNext"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dip"
+                android:background="@color/lightGreen"
+                android:text="NEXT"
+                android:textColor="@color/white" />
+
+            <!-- Link to Login Screen -->
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

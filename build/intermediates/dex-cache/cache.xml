@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\Users\user\Desktop\Fuel Subsidy Android - Copy\fuelsubsidy\app\build\intermediates\pre-dexed\debug\httpclient-4.3.6_a05f546eace6bc62554b8eb691f0e03ffb5c81df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Fuel Subsidy Android - Copy\fuelsubsidy\app\libs\android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Users\user\Desktop\Fuel Subsidy Android - Copy\fuelsubsidy\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.9_4c5def803f12b82bb0551605f1359095491fb1e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\e34e61653c06675f06b1923faf104b3215d125e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f30799fa6ed40feb6e7010f70d8cd483d5be1af">
+        <dex dex="C:\Users\user\Desktop\Fuel Subsidy Android - Copy\fuelsubsidy\app\build\intermediates\pre-dexed\debug\classes_8aa84e6680882e5a595150d0c3beeb8c279266c6.jar" />
+    </item>
+
+</items>

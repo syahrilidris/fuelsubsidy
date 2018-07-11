@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\11a59daf87785a96de0bd5177dce73025130f642\\output\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\xml\\nfc_tech_filter.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\11a59daf87785a96de0bd5177dce73025130f642\\output\\res\\xml\\nfc_tech_filter.xml"
+    }
+]

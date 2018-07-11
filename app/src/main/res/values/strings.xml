@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fuel Subsidy</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+
+
+    <string-array name="loyalty_card">
+        <item>BONUSLINK</item>
+        <item>MESRA</item>
+        <item>BHP</item>
+        <item>CALTEX</item>
+        <item>MILES</item>
+    </string-array>
+
+    <string-array name="bank_card">
+        <item>MAYBANK</item>
+        <item>CIMB</item>
+        <item>RHB</item>
+        <item>AMBANK</item>
+        <item>HONG LEONG</item>
+    </string-array>
+
+    <string-array name="credit_card">
+        <item>MAYBANK</item>
+        <item>CIMB</item>
+        <item>RHB</item>
+        <item>AMBANK</item>
+        <item>HONG LEONG</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>MALE</item>
+        <item>FEMALE</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>

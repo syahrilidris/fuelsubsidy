@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main2.xml",
+        "source": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\src\\main\\res\\layout\\fragment_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_face_liveness.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e34e61653c06675f06b1923faf104b3215d125e2\\output\\res\\layout\\activity_face_liveness.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mykad.xml",
+        "source": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\src\\main\\res\\layout\\mykad.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\fd5a23dcdc6f3327cc75d1d95c6bb5846451b286\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_image.xml",
+        "source": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\src\\main\\res\\layout\\item_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_passport_nfc_result.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\11a59daf87785a96de0bd5177dce73025130f642\\output\\res\\layout\\activity_passport_nfc_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\0091e0dda7b61b2cba4a478ec6adb3dc2079f767\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\0091e0dda7b61b2cba4a478ec6adb3dc2079f767\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_read_passport_nfc.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\11a59daf87785a96de0bd5177dce73025130f642\\output\\res\\layout\\activity_read_passport_nfc.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\fd5a23dcdc6f3327cc75d1d95c6bb5846451b286\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_view_motion.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e34e61653c06675f06b1923faf104b3215d125e2\\output\\res\\layout\\common_view_motion.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chip_verification.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\11a59daf87785a96de0bd5177dce73025130f642\\output\\res\\layout\\activity_chip_verification.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loyalty.xml",
+        "source": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\src\\main\\res\\layout\\loyalty.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\fd5a23dcdc6f3327cc75d1d95c6bb5846451b286\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\0091e0dda7b61b2cba4a478ec6adb3dc2079f767\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\caadf3c7efdc43755c9b1137cb36a757233d63bb\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\caadf3c7efdc43755c9b1137cb36a757233d63bb\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\0091e0dda7b61b2cba4a478ec6adb3dc2079f767\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preview.xml",
+        "source": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\src\\main\\res\\layout\\preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\creditcard.xml",
+        "source": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\src\\main\\res\\layout\\creditcard.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\caadf3c7efdc43755c9b1137cb36a757233d63bb\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\0091e0dda7b61b2cba4a478ec6adb3dc2079f767\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\11a59daf87785a96de0bd5177dce73025130f642\\output\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\caadf3c7efdc43755c9b1137cb36a757233d63bb\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ocr_capture.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\11a59daf87785a96de0bd5177dce73025130f642\\output\\res\\layout\\ocr_capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\0091e0dda7b61b2cba4a478ec6adb3dc2079f767\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog_box.xml",
+        "source": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\src\\main\\res\\layout\\custom_dialog_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\0091e0dda7b61b2cba4a478ec6adb3dc2079f767\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\0091e0dda7b61b2cba4a478ec6adb3dc2079f767\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\0091e0dda7b61b2cba4a478ec6adb3dc2079f767\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\roadtax.xml",
+        "source": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\src\\main\\res\\layout\\roadtax.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\0091e0dda7b61b2cba4a478ec6adb3dc2079f767\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\11a59daf87785a96de0bd5177dce73025130f642\\output\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6798b59715e75256ed5941f8f53e48bed6391343\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Fuel Subsidy Android - Copy\\fuelsubsidy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\0091e0dda7b61b2cba4a478ec6adb3dc2079f767\\output\\res\\layout\\design_navigation_item_header.xml"
+    }
+]
