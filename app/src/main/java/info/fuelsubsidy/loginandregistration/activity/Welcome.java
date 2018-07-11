@@ -1,7 +1,5 @@
 /**
- * Author: Ravi Tamada
- * URL: www.androidhive.info
- * twitter: http://twitter.com/ravitamada
+ * Author: Syahril Idris
  */
 package info.fuelsubsidy.loginandregistration.activity;
 

@@ -1,7 +1,5 @@
 /**
- * Author: Ravi Tamada
- * URL: www.androidhive.info
- * twitter: http://twitter.com/ravitamada
+ * Author: Syahril Idris
  */
 package info.fuelsubsidy.loginandregistration.activity;
 
@@ -44,6 +42,8 @@ public class loyalty extends Activity {
     String personalinfo;
 
     public String camera;
+
+
     private ImageView loyaltyImage;
     private Bitmap  mphoto;
     Bitmap bmpmykad;

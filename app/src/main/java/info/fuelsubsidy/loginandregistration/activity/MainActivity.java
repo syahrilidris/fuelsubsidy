@@ -1,3 +1,7 @@
+/**
+ * Author: Syahril Idris
+ */
+
 package info.fuelsubsidy.loginandregistration.activity;
 
 import android.app.Activity;
